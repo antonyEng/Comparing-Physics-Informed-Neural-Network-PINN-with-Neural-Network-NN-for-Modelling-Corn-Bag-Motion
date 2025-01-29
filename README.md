@@ -1,0 +1,1 @@
+# Comparing-Physics-Informed-Neural-Network-PINN-with-Neural-Network-NN-for-Modelling-Corn-Bag-Motion
